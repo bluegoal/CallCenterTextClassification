@@ -1,1 +1,6 @@
-readme
+Put source data here for my Master Thesis
+'2022 2-9 remove PII clean  data 0328 Copy.xlsx' include all data of call note after data clean, removed the PII. also include the new and Old categories information.
+'tf-idf.xlsx' include all tranditional tf-idf run out data, select the top 48 show in the paper.
+'Topic Model result.xlsx' is the data expert from Google Colab, run out from BERTopic model. for calc the Clustering and Recall performance.
+'tablets0321 new - copy.xlsx' include filter out data from corpus for tablet products, also includes the formatted data by uncase, remove stopwords, lemme
+End of Document
